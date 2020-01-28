@@ -2,6 +2,9 @@ Its a git init
 
 
 for demo
+
 just a demo
+
+adding to learn how to use github
 
 Thankyou
