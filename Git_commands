@@ -4,6 +4,12 @@
 -> git status
 	then we will see the status of the changes made in our file
 
+
+// after making desired changes then we should add them to repo to do that follow these steps
+
+-> git add "filename"
+	This will add all the files
+
 -> git commit -m "message"
 	This will commit the status using a message 
 
@@ -12,6 +18,7 @@
 
 -> git push
 	This will push the code into github
+
 -> git branch -a 
 	This will show all the branches of that repo
 
