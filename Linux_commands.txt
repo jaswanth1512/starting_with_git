@@ -10,3 +10,5 @@ adding to learn how to use github
 learning how to use branches
 
 Thankyou
+
+This is merging
