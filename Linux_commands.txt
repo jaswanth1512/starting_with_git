@@ -12,3 +12,6 @@ learning how to use branches
 Thankyou
 
 This is merging
+
+end of git
+
