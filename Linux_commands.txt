@@ -30,4 +30,32 @@ standred erroe is represented by 2 (stderr)
 
 
 
-					
+					<<< Directory Management >>>
+
+cd ~	-> used to go to home directory
+
+cd ~username	-> used to go to a perticular user
+
+cd - 	-> used to goto the previous path
+
+pwd	-> used to show the current path directory
+
+ls dirname	-> used to listout the files in that directory
+
+mkdir dir 	-> creates a directory named dir
+
+mkdir ex1 ex2	-> used to create two directories named ex1 and ex2
+
+mkdir -p path	-> creates a parent directory if it is not present 
+
+rmdir dir	-> used to remove directory dir
+
+mv olddir newdir	->used to rename the directory
+
+ls -a	-> used to list all the directories(all hidden files also)
+
+ls -al	-> used to list all directories with more info
+
+
+
+					<<<	>>>
