@@ -1,3 +1,6 @@
+						<<< File system >>>
+
+
 ls	-> used to list all the files
 
 ls -l	-> used to get mor info about listed files
@@ -24,3 +27,7 @@ standered i/p is represented by 0(stdin)
 standred o/p is represented by 1(stdout)
 
 standred erroe is represented by 2 (stderr)
+
+
+
+					
