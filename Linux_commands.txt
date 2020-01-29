@@ -1,17 +1,26 @@
-->  git clone "URL"
-	then all the files will be downloaded into local PC
+ls	-> used to list all the files
 
--> git status
-	then we will see the status of the changes made in our file
+ls -l	-> used to get mor info about listed files
 
--> git commit -m "message"
-	This will commit the status using a message 
+ls ch*	-> used to search
+	ex: ls ch* txt lists all the files which has txt
 
--> git log
-	This will show the status of our log
+ls *	-> used to find the files ending with the keyword
+	ex: ls *txt shows the files ending with txt
 
--> git push
-	This will push the code into github
--> git branch -a 
-	This will show all the branches of that repo
+vi "filenamae"	-> used to create afile or edit a file
 
+wc 	-> useed to find the no of lines
+	ex: wc file give op as 10 200 file where 10 represents the no of lines 200 is toayal no of bytes and last colum represents thefilename
+
+cp souce_file dest_file		-> used to copy from source to dest
+
+mv old_file new_file		-> used to move from old file to new file
+
+rm filename	->removes the file
+
+standered i/p is represented by 0(stdin)
+
+standred o/p is represented by 1(stdout)
+
+standred erroe is represented by 2 (stderr)
