@@ -22,3 +22,8 @@
 -> git branch -a 
 	This will show all the branches of that repo
 
+-> git commit -b "new branch name"
+	This will create a new branch in local repo
+
+-> git push origin "new branch name"
+	This will push the new branch to github
