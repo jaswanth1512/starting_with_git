@@ -56,6 +56,22 @@ ls -a	-> used to list all the directories(all hidden files also)
 
 ls -al	-> used to list all directories with more info
 
+					To hide a directory in linux use . infront of that directory
 
 
-					<<<	>>>
+
+					<<<File permissions>>>
+
+chmod	-> used to change the permissions
+	-> example: chmog o+xr textfile	 used to give execute and read permissions to owner
+	-> example: chmog o-xr textfile	 used to remove execute and read permissions to owner
+	-> example: chmod o+wx,u-x,g = rx testfile	o is owner u is user and g is group
+
+chown	-> used to change the owner
+	-> example: chown jaswanth txtfile change the owner of txtfile to jaswanth
+
+chgrp	-> used to change the group
+	-> example: chgrp jaswanth txtfile change the grroup of txtfile to jaswanth
+
+
+
