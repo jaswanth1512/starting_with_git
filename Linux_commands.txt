@@ -74,4 +74,12 @@ chgrp	-> used to change the group
 	-> example: chgrp jaswanth txtfile change the grroup of txtfile to jaswanth
 
 
+					<<<Environment>>>
+
+When we login to the system, shell undergoes a phase called INITILIZATION and genrally it is present in /etc/profile.
+
+If we want to execute anything we can write here
+
+/etc/profile file is maintainded by admin of that UNIX mechine
+
 
